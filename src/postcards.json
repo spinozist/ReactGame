@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Alaska",
+        "imagepath": "./images/Alaska.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Atlanta",
+        "imagepath": "./images/Atlanta.jpg"
+    },
+    {
+        "id": 3,
+        "name": "California",
+        "imagepath": "./images/California.png"
+    },
+    {
+        "id": 4,
+        "name": "Denver",
+        "imagepath": "./images/Denver.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Detroit",
+        "imagepath": "./images/Detroit.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Florida",
+        "imagepath": "./images/Florida.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Indiana",
+        "imagepath": "./images/Indiana.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Los Angeles",
+        "imagepath": "./images/Los-Angeles.jpg"
+    },
+    {
+        "id": 9,
+        "name": "New York City",
+        "imagepath": "./images/NYC.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Springfield",
+        "imagepath": "./images/Springfield.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Texas",
+        "imagepath": "./images/Texas.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Wyoming",
+        "imagepath": "./images/Wyoming.png"
+    }
+]

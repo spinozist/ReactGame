@@ -1,0 +1,15 @@
+img {
+    width: 100%;
+}
+
+.postcard {
+    border-radius: 2%;
+}
+
+.Parallax {
+    height: 20vh;
+}
+
+.TopParallax {
+    height: 10vh; 
+}
