@@ -1,13 +1,15 @@
 import React from "react";
-import {Navbar} from "react-materialize";
+import { Row, Col } from "react-materialize";
 import "./style.css";
 
 
 function NavBar(props) {
     return(
-        <Navbar>
-            <h1>Gone Postal</h1>
-        </Navbar>
+        <Row className="HeaderBar">
+             <Col s="6"><h2 id="logo">Gone Postal</h2></Col>
+             <Col s="3"><h4 className="ScoreBoards">Your Score: </h4></Col>
+             <Col s="3"><h4 className="ScoreBoards">Top Score: </h4></Col>
+        </Row>
     );
 };
 

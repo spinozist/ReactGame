@@ -3,13 +3,14 @@ img {
 }
 
 .postcard {
+    height: 25vh;
+    margin-top: 3vh;
+}
+
+.postcard > img {
     border-radius: 2%;
 }
 
 .Parallax {
-    height: 20vh;
-}
-
-.TopParallax {
-    height: 10vh; 
+    height: 30vh;
 }

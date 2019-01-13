@@ -1,3 +1,22 @@
-h1 {
+.HeaderBar {
+    width: 100%;
+    position: fixed;
+    background-color: #ee6e73;
+    color: #fff;
+    vertical-align: middle;
+}
+
+#logo {
+    line-height: 8vh;
+    margin: 5px auto 5px auto;
+    color: #ee6e73;
+    background-color: #fff;
+    text-align: center;
+}
+
+.ScoreBoards {
+    margin: 5px auto 5px auto;
+    height: 100%;
+    margin: 0px;
     text-align: center;
 }

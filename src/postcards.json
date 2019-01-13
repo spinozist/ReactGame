@@ -2,61 +2,73 @@
     {
         "id": 1,
         "name": "Alaska",
-        "imagepath": "./images/Alaska.jpg"
+        "imagepath": "./images/Alaska.jpg",
+        "clickstatus": "false"
     },
     {
         "id": 2,
         "name": "Atlanta",
-        "imagepath": "./images/Atlanta.jpg"
+        "imagepath": "./images/Atlanta.jpg",
+        "clickstatus": "false"
     },
     {
         "id": 3,
         "name": "California",
-        "imagepath": "./images/California.png"
+        "imagepath": "./images/California.png",
+        "clickstatus": "false"
     },
     {
         "id": 4,
         "name": "Denver",
-        "imagepath": "./images/Denver.jpg"
+        "imagepath": "./images/Denver.jpg",
+        "clickstatus": "false"
     },
     {
         "id": 5,
         "name": "Detroit",
-        "imagepath": "./images/Detroit.jpg"
+        "imagepath": "./images/Detroit.jpg",
+        "clickstatus": "false"
     },
     {
         "id": 6,
         "name": "Florida",
-        "imagepath": "./images/Florida.jpg"
+        "imagepath": "./images/Florida.jpg",
+        "clickstatus": "false"
     },
     {
         "id": 7,
         "name": "Indiana",
-        "imagepath": "./images/Indiana.jpg"
+        "imagepath": "./images/Indiana.jpg",
+        "clickstatus": "false"
     },
     {
         "id": 8,
         "name": "Los Angeles",
-        "imagepath": "./images/Los-Angeles.jpg"
+        "imagepath": "./images/Los-Angeles.jpg",
+        "clickstatus": "false"
     },
     {
         "id": 9,
         "name": "New York City",
-        "imagepath": "./images/NYC.jpg"
+        "imagepath": "./images/NYC.jpg",
+        "clickstatus": "false"
     },
     {
         "id": 10,
         "name": "Springfield",
-        "imagepath": "./images/Springfield.jpg"
+        "imagepath": "./images/Springfield.jpg",
+        "clickstatus": "false"
     },
     {
         "id": 11,
         "name": "Texas",
-        "imagepath": "./images/Texas.jpg"
+        "imagepath": "./images/Texas.jpg",
+        "clickstatus": "false"
     },
     {
         "id": 12,
         "name": "Wyoming",
-        "imagepath": "./images/Wyoming.png"
+        "imagepath": "./images/Wyoming.png",
+        "clickstatus": "false"
     }
 ]
