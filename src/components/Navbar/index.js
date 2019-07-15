@@ -6,7 +6,7 @@ import "./style.css";
 function NavBar(props) {
     return(
         <Row className="HeaderBar">
-             <Col s="6"><h2 id="logo">Gone Postal</h2></Col>
+             <Col s="6"><h1 id="logo">Gone Postal</h1></Col>
              <Col s="3"><h4 className="ScoreBoards">Your Score: </h4></Col>
              <Col s="3"><h4 className="ScoreBoards">Top Score: </h4></Col>
         </Row>
